@@ -42,7 +42,7 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/your-username/opencode-ai.git
+git clone https://github.com/lookerjin/opencode-ai.git
 cd opencode-ai
 ```
 

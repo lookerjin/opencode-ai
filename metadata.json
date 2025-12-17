@@ -1,0 +1,5 @@
+{
+  "name": "OpenCode AI - 智能代码解读",
+  "description": "基于大语言模型的 GitHub 开源项目深度解读工具。无需登录，即刻生成现代化的中文技术文档与架构分析。",
+  "requestFramePermissions": []
+}
